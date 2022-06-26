@@ -1,1 +1,3 @@
 # Research-on-JSP-based-on-HC-and-SA-Algorithm
+
+Job-shop Scheduling Problem(JSP) is a typical NP-Hard problem, and there is no exact optimal solution algorithm. This paper analyzes the feasibility of two intelligent optimization algorithms, Hill-Climbing Algorithm and Simulated Annealing Algorithm, to solve JSP. What's more, we also propose some optimum proposals to these two algorithms to improve algorithm performance.
